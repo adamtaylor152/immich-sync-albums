@@ -3,9 +3,7 @@ This script will sync all albums from one [immich](https://github.com/immich-app
 
 I recently wanted to consolidate all my photos into an [immich](https://github.com/immich-app/immich) instance. Since I imported photos manually over time, not all the metadata was correct, missing dates, etc. I was able to move all the photos into a new instance, but all the work I did to create hundreds of albums was lost.
 
-This simple Python script will recreate and populate all photos in SERVER 1 and replicate them on SERVER 2. 
-
-It uses the photo checksum values to write to the replicated albums.
+This simple Python script will recreate and populate all albums in SERVER 1 and replicate them on SERVER 2 using the photo checksum values to write to the replicated albums.
 
 UPDATED FOR NEW IMMICH API PERMISSIONS - API key must have permission to:
 
