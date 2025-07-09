@@ -34,7 +34,7 @@ You use username/password auth (easy to modify for API token auth).
 
 
 
-Usage:
+# 🎞️ Usage:
 
 Download the script.
 
