@@ -15,7 +15,7 @@ Create albums
 Add assets to albums
 
 
-✅ Requirements
+# ✅ Requirements
 Python 3.x
 
 requests package (pip install requests)
@@ -25,7 +25,7 @@ Immich tokens for both servers (username/password or API key)
 Admin access to both Immich servers
 
 
-🧠 Assumptions
+# 🧠 Assumptions
 Assets (photos/videos) have been transferred and maintain filename/checksum consistency.
 
 You have admin/user access to both servers.
@@ -40,10 +40,13 @@ Download the script.
 
 Edit the script and add your values for the servers and API keys.
 
-# Config
+Config
 SERVER1_URL = "http://server1.url/api"
+
 SERVER2_URL = "http://server2.url/api"
+
 API_KEY_1 = "your_server_1_api_key_here"
+
 API_KEY_2 = "your_server_2_api_key_here"
 
 Run the script.
