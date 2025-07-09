@@ -10,8 +10,11 @@ It uses the photo checksum values to write to the replicated albums.
 UPDATED FOR NEW IMMICH API PERMISSIONS - API key must have permission to:
 
 Read albums
+
 Read assets
+
 Create albums
+
 Add assets to albums
 
 
