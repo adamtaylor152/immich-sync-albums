@@ -1,7 +1,7 @@
 # immich-sync-albums
-This script will sync all albums from one immich server to another.
+This script will sync all albums from one [immich](https://github.com/immich-app/immich) server to another.
 
-I recently wanted to consolidate all my photos into an immich instance. Since I imported photos manually over time, not all the metadata was correct, missing dates, etc. I was able to move all the photos into a new instance, but all the work I did to create hundreds of albums was lost.
+I recently wanted to consolidate all my photos into an [immich](https://github.com/immich-app/immich) instance. Since I imported photos manually over time, not all the metadata was correct, missing dates, etc. I was able to move all the photos into a new instance, but all the work I did to create hundreds of albums was lost.
 
 This simple Python script will recreate and populate all photos in SERVER 1 and replicate them on SERVER 2. 
 
