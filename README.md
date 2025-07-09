@@ -22,6 +22,7 @@ Assets (photos/videos) have been transferred and maintain filename/checksum cons
 
 You have admin/user access to both servers.
 
+> [!IMPORTANT]
 UPDATED FOR NEW IMMICH API PERMISSIONS - API key must have permission to:
 
 * Read albums
